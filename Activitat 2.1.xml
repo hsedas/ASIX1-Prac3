@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Llista>
+        <Empleat>
+            <nom>Arnau</nom>
+            <cognom>Martínez</cognom>
+            <direccio>C/Enrique Granados 128</direccio>
+            <telefon>631439203</telefon>
+        </Empleat>
+    </Llista>
+</root>
