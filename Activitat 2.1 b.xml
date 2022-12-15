@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Llista>
+        <Empleat>
+            <nom>Arnau</nom>
+            <cognom>Martínez</cognom>
+            <direccio>C/Enrique Granados 128</direccio>
+            <telefon>631439203</telefon>
+        </Empleat>
+        <Empleat2>
+            <nom>Julia</nom>
+            <cognom>Crespo</cognom>
+            <direccio>C/Diputació 77</direccio>
+            <telefon>698782341</telefon>
+        </Empleat2>
+    </Llista>
+</root>

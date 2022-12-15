@@ -1,0 +1,16 @@
+{
+    "Llista": {
+        "Empleat": {
+            "nom": "Arnau",
+            "cognom": "Martínez",
+            "direccio": "C/Enrique Granados 128",
+            "telefon": "631439203"
+        },
+        "Empleat2": {
+            "nom": "Julia",
+            "cognom": "Crespo",
+            "direccio": "C/Diputació 77",
+            "telefon": "698782341"
+        }
+    }
+}
